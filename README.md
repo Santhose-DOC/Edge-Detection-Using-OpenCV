@@ -96,17 +96,29 @@ plt.axis('off')
 ### 1. Original Image
 - The original input image is displayed.
 
+<img width="239" height="327" alt="image" src="https://github.com/user-attachments/assets/81351b29-8b72-4c96-a20c-7799bb606c40" />
+
+
 ### 2. Sobel Edge Detection
 - The Sobel operator detects horizontal and vertical edges.
 - The combined edge detection result is displayed.
+
+<img width="239" height="327" alt="image" src="https://github.com/user-attachments/assets/31013dae-7f66-4250-86ae-806be0486ea3" />
+
 
 ### 3. Laplacian Edge Detection
 - The Laplacian operator detects edges using second-order derivatives.
 - The Laplacian edge detection result is displayed.
 
+<img width="239" height="327" alt="image" src="https://github.com/user-attachments/assets/af82e349-6455-411c-9179-35d898911e31" />
+
+
 ### 4. Canny Edge Detection
 - Canny edge detection identifies the edges using threshold values of 50 and 150.
 - The detected edge image is displayed.
+
+<img width="239" height="327" alt="image" src="https://github.com/user-attachments/assets/fe62b05e-8cb8-435b-b6b0-c627570bf1ac" />
+
 
 ## Result
 
